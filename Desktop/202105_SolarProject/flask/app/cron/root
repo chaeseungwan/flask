@@ -1,0 +1,2 @@
+0 15 * * * root /root/files/mytest.sh >> /root/files/mytest.log
+
